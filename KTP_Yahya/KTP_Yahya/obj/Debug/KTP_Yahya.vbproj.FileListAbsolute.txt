@@ -1,0 +1,13 @@
+D:\Code\VisualBasic\KTP_Yahya\KTP_Yahya\bin\Debug\KTP_Yahya.exe.config
+D:\Code\VisualBasic\KTP_Yahya\KTP_Yahya\bin\Debug\KTP_Yahya.exe
+D:\Code\VisualBasic\KTP_Yahya\KTP_Yahya\bin\Debug\KTP_Yahya.pdb
+D:\Code\VisualBasic\KTP_Yahya\KTP_Yahya\bin\Debug\KTP_Yahya.xml
+D:\Code\VisualBasic\KTP_Yahya\KTP_Yahya\obj\Debug\KTP_Yahya.vbproj.AssemblyReference.cache
+D:\Code\VisualBasic\KTP_Yahya\KTP_Yahya\obj\Debug\KTP_Yahya.vbproj.SuggestedBindingRedirects.cache
+D:\Code\VisualBasic\KTP_Yahya\KTP_Yahya\obj\Debug\KTP_Yahya.Form1.resources
+D:\Code\VisualBasic\KTP_Yahya\KTP_Yahya\obj\Debug\KTP_Yahya.Resources.resources
+D:\Code\VisualBasic\KTP_Yahya\KTP_Yahya\obj\Debug\KTP_Yahya.vbproj.GenerateResource.cache
+D:\Code\VisualBasic\KTP_Yahya\KTP_Yahya\obj\Debug\KTP_Yahya.vbproj.CoreCompileInputs.cache
+D:\Code\VisualBasic\KTP_Yahya\KTP_Yahya\obj\Debug\KTP_Yahya.exe
+D:\Code\VisualBasic\KTP_Yahya\KTP_Yahya\obj\Debug\KTP_Yahya.xml
+D:\Code\VisualBasic\KTP_Yahya\KTP_Yahya\obj\Debug\KTP_Yahya.pdb
